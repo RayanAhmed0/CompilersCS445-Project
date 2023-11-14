@@ -21,7 +21,7 @@ You have to isntall python
 
 ```
 ## Author
-👤 **Rayan Alshanaiber  , Abdullah Aldosari , Abdullah Alolayan , Abdulhadi Alharbi 
+👤 **Rayan Alshanaiber**  , **Abdullah Aldosari** , **Abdullah Alolayan** , **Abdulhadi Alharbi** 
 ## References <3
 1.	https://github.com/veeral-agarwal/Automata-Theory-Codes
 2.	https://github.com/AustinZuniga/DFA-implemented-python
